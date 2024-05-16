@@ -1,0 +1,7 @@
+sample_name,forward,reverse,date,reactor
+CAL1,/projects/p31629/raw_reads_meta/CAL1_S45_R1_001.fastq.gz,/projects/p31629/raw_reads_meta/CAL1_S45_R2_001.fastq.gz,8/16/21,test
+CAL2,/projects/p31629/raw_reads_meta/CAL2_S46_R1_001.fastq.gz,/projects/p31629/raw_reads_meta/CAL2_S46_R2_001.fastq.gz,9/21/21,test
+CAL3,/projects/p31629/raw_reads_meta/CAL3_S294_R1_001.fastq.gz,/projects/p31629/raw_reads_meta/CAL3_S294_R2_001.fastq.gz,10/26/21,test
+CAL_R1,/projects/p31629/raw_reads_meta/CAL_R1_S2_R1_001.fastq.gz,/projects/p31629/raw_reads_meta/CAL_R1_S2_R2_001.fastq.gz,8/16/21,ras
+CAL_S2,/projects/p31629/raw_reads_meta/CAL_S2_S3_R1_001.fastq.gz,/projects/p31629/raw_reads_meta/CAL_S2_S3_R2_001.fastq.gz,11/15/21,test
+CAL_R2,/projects/p31629/raw_reads_meta/CAL_R2_S4_R1_001.fastq.gz,/projects/p31629/raw_reads_meta/CAL_R2_S4_R2_001.fastq.gz,11/15/21,ras
